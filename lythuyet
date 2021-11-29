@@ -1,0 +1,26 @@
+Const k khai báo giá trị được
+cài đặt tailwin: 
+B1: npm init -y
+Lê Trọng Đạt (FPL HN)14:23
+    npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
+Lê Trọng Đạt (FPL HN)14:25
+    B3: npx tailwindcss init
+    b4: Tạo file tailwind.css và paste code này
+    /* ./your-css-folder/styles.css */
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+Lê Trọng Đạt (FPL HN)14:28
+    B5: vào file package.json chỉnh sửa trong script
+    "dev:css": "tailwindcss -i tailwind.css -o dist/main.css --minify -w"
+    Lê Trọng Đạt (FPL HN)14:29
+        "dev:css": "npx tailwindcss -i tailwind.css -o dist/main.css --minify --watch"
+Lê Trọng Đạt (FPL HN)14:32
+    B6: vào file tailwind.config.js
+    purge: [
+        './src/**/*.html',
+        './src/**/*.{js,jsx,ts,tsx,vue}',
+      ],
+      mode: 'jit',
+Lê Trọng Đạt (FPL HN)14:33
+    B7: chạy câu lệnh npm run dev:css

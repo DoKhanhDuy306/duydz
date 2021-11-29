@@ -1,0 +1,211 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "name": "Unbranded Concrete Car",
+      "img": "http://placeimg.com/640/480/fashion",
+      "price": "288.00",
+      "desc": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+      "quantity": 59,
+      "slug": "Practical Soft Chair",
+      "id": "60"
+    },
+    {
+      "name": "Small Wooden Gloves",
+      "img": "http://placeimg.com/640/480/business",
+      "price": "579.00",
+      "desc": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "quantity": 14,
+      "slug": "Fantastic Steel Cheese",
+      "id": "61"
+    },
+    {
+      "name": "Generic Granite Mouse",
+      "img": "http://placeimg.com/640/480/city",
+      "price": "541.00",
+      "desc": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+      "quantity": 15,
+      "slug": "Refined Frozen Chicken",
+      "id": "62"
+    },
+    {
+      "name": "demo",
+      "img": "http://placeimg.com/640/480/cats",
+      "price": "356.00",
+      "desc": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "quantity": 11,
+      "slug": "Tasty Rubber Shoes",
+      "id": "84"
+    },
+    {
+      "name": "",
+      "img": "",
+      "price": 0,
+      "desc": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+      "quantity": 85,
+      "slug": "Licensed Frozen Mouse",
+      "id": "85",
+      "status": true
+    },
+    {
+      "name": "Awesome Frozen Pants",
+      "img": "http://placeimg.com/640/480/sports",
+      "price": "250.00",
+      "desc": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+      "quantity": 98,
+      "slug": "Intelligent Metal Hat",
+      "id": "86"
+    },
+    {
+      "name": "Ergonomic Frozen Mouse",
+      "img": "http://placeimg.com/640/480/city",
+      "price": "377.00",
+      "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "quantity": 23,
+      "slug": "Handcrafted Soft Chips",
+      "id": "87"
+    },
+    {
+      "name": "Awesome Concrete Salad",
+      "img": "http://placeimg.com/640/480/transport",
+      "price": "475.00",
+      "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "quantity": 55,
+      "slug": "Practical Cotton Chair",
+      "id": "88"
+    },
+    {
+      "name": "Small Wooden Chicken",
+      "img": "http://placeimg.com/640/480/business",
+      "price": "24.00",
+      "desc": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+      "quantity": 98,
+      "slug": "Incredible Wooden Salad",
+      "id": "89"
+    },
+    {
+      "name": "Tasty Concrete Pants",
+      "img": "http://placeimg.com/640/480/nature",
+      "price": "893.00",
+      "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "quantity": 13,
+      "slug": "Refined Granite Pizza",
+      "id": "90"
+    },
+    {
+      "name": "Unbranded Soft Tuna",
+      "img": "http://placeimg.com/640/480/food",
+      "price": "331.00",
+      "desc": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+      "quantity": 39,
+      "slug": "Unbranded Plastic Table",
+      "id": "91"
+    },
+    {
+      "name": "Ergonomic Fresh Car",
+      "img": "http://placeimg.com/640/480/technics",
+      "price": "488.00",
+      "desc": "The Football Is Good For Training And Recreational Purposes",
+      "quantity": 13,
+      "slug": "Gorgeous Cotton Pizza",
+      "id": "92"
+    },
+    {
+      "name": "Rustic Granite Pizza",
+      "img": "http://placeimg.com/640/480/nature",
+      "price": "409.00",
+      "desc": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "quantity": 96,
+      "slug": "Ergonomic Frozen Chips",
+      "id": "93"
+    },
+    {
+      "name": "Practical Fresh Shirt",
+      "img": "http://placeimg.com/640/480/technics",
+      "price": "998.00",
+      "desc": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+      "quantity": 10,
+      "slug": "Awesome Soft Bike",
+      "id": "94"
+    },
+    {
+      "name": "Unbranded Cotton Car",
+      "img": "http://placeimg.com/640/480/city",
+      "price": "322.00",
+      "desc": "The Football Is Good For Training And Recreational Purposes",
+      "quantity": 61,
+      "slug": "Handcrafted Metal Tuna",
+      "id": "95"
+    },
+    {
+      "name": "Fantastic Wooden Chicken",
+      "img": "http://placeimg.com/640/480/abstract",
+      "price": "401.00",
+      "desc": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
+      "quantity": 66,
+      "slug": "Intelligent Granite Chair",
+      "id": "96"
+    },
+    {
+      "name": "Generic Soft Bike",
+      "img": "http://placeimg.com/640/480/food",
+      "price": "771.00",
+      "desc": "The Football Is Good For Training And Recreational Purposes",
+      "quantity": 16,
+      "slug": "Small Frozen Keyboard",
+      "id": "97"
+    },
+    {
+      "name": "Handmade Cotton Ball",
+      "img": "http://placeimg.com/640/480/city",
+      "price": "294.00",
+      "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "quantity": 93,
+      "slug": "Tasty Cotton Soap",
+      "id": "98"
+    },
+    {
+      "name": "Incredible Plastic Pizza",
+      "img": "http://placeimg.com/640/480/people",
+      "price": "253.00",
+      "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "quantity": 61,
+      "slug": "Small Steel Tuna",
+      "id": "99"
+    },
+    {
+      "name": "Awesome Wooden Chicken",
+      "img": "http://placeimg.com/640/480/cats",
+      "price": "254.00",
+      "desc": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
+      "quantity": 20,
+      "slug": "Tasty Plastic Shoes",
+      "id": "100"
+    },
+    {
+      "name": "Practical Cotton Ball",
+      "img": "http://placeimg.com/640/480/food",
+      "price": "255.00",
+      "desc": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
+      "quantity": 58,
+      "slug": "Handcrafted Soft Car",
+      "id": "101"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+.container > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+}
+
+html,
+body {
+  background-color: blue;
+}
+
+.container > div :nth-child(1n) {
+  background-color: aqua;
+}
+
+.container > div :nth-child(2n) {
+  background-color: palevioletred;
+}
+
+.container > div :nth-child(3n) {
+  background-color: olivedrab;
+}
+
+.container > div :nth-child(4n) {
+  background-color: darkcyan;
+}
